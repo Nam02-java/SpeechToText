@@ -13,7 +13,7 @@ public class DataStoreModel {
     private EnumSet<EnumController> statusEnumSet = EnumSet.noneOf(EnumController.class);
 
     public String userName = "nam03test";
-    public String userPassWord = "IUtrangmaimai02";
+    public String userPassWord = "mk123";
     public String  notification = null;
     public CountDownLatch countDownLatch;
     private String countDownLatchName;
