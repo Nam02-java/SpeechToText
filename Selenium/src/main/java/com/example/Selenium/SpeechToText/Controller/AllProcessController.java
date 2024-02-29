@@ -31,7 +31,7 @@ public class AllProcessController {
 
         SendMessage sendMessage = new SendMessage();
         sendMessage.setChatId("1159534870");
-        telegramDataStoreModel = new TelegramDataStoreModel("CaptchaSlove_bot", "6928830332:AAGmv3fN_k8YdITzJeOyjqtsDQfWuviF308", sendMessage);
+        telegramDataStoreModel = new TelegramDataStoreModel("CaptchaSlove_bot", "6102830132:AAGzv3fN_k8YdITpHkOyjqtsDQfWqviF398", sendMessage);
 
         dataStoreModel.addStatus(EnumController.APPLICATION_STATUS_OK);
 
